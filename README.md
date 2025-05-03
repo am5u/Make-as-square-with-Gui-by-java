@@ -85,3 +85,10 @@ The main solving algorithm uses backtracking with the following steps:
 - Java Swing for GUI
 - Java AWT for graphics
 - Java Threading utilities 
+
+![Image](https://github.com/user-attachments/assets/f5375560-0fcc-4a73-aa7e-5130ad5cd1e7)
+
+
+![Image](https://github.com/user-attachments/assets/8c705101-914c-4615-a652-c75252a64878)
+
+![Image](https://github.com/user-attachments/assets/ebbef84c-135d-461b-831f-126d4a02e58e)
